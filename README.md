@@ -1,2 +1,2 @@
-# ShopBridge
-ShopBridge API's for Catalog management
+# TRestApp
+TestApp API's for Catalog management
